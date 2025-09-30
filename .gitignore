@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db
