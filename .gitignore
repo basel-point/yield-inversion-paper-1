@@ -18,5 +18,5 @@ venv/
 Thumbs.db
 
 # Generated outputs (added)
-/notebook/*.csv
-/notebook/*.png
+*.csv
+*.png
