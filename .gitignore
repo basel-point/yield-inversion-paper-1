@@ -16,3 +16,7 @@ venv/
 # OS cruft
 .DS_Store
 Thumbs.db
+
+# Generated outputs (added)
+/notebook/*.csv
+/notebook/*.png
