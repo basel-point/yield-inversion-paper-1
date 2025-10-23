@@ -1,4 +1,4 @@
-# Yield Inversion — Paper 1
+# Basel Point — Paper 1: *When the Yield Curve Turns, the Economy Is Listening*
 
 This repository presents static artifacts from my analysis of the U.S. Treasury yield curve (30Y, 10Y, 2Y, 3M) and key inversion spreads. It accompanies my Basel Point research. Code and data pipelines are maintained privately.
 
