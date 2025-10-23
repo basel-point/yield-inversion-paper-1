@@ -24,5 +24,3 @@ Data source: FRED (U.S. Treasury constant maturity). Transforms include common s
 
 For collaboration or code review under NDA, contact \*\*thebaselpoint@gmail.com\*\*.
 
-
-
