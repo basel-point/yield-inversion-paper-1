@@ -20,3 +20,25 @@ Thumbs.db
 # Generated outputs (added)
 *.csv
 *.png
+
+!charts/*.png
+
+# Block runnable code & configs
+*.py
+*.ipynb
+requirements*.txt
+Pipfile*
+poetry.lock
+environment.yml
+
+# Block secrets
+.env
+.env.*
+
+# Block data outputs
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.zip
+*.gz
